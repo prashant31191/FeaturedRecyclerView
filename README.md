@@ -130,10 +130,10 @@ limitations under the License.
 [Google+]:             /art/gplus.png
 [LinkedIn]:             /art/linkedin.png
 
-[Donate $5]: 		https://www.paypal.me/developerShivam/5
-[Donate $10]:  	https://www.paypal.me/developerShivam/10
-[Donate $15]:  	https://www.paypal.me/developerShivam/15
-[Donate $25]:  	https://www.paypal.me/developerShivam/25
-[Donate $50]: 		https://www.paypal.me/developerShivam/50
-[Donate $100]: 	https://www.paypal.me/developerShivam/100
-[Donate $2799]: 	https://www.paypal.me/developerShivam/2799
+[Donate $5]: 		https://www.paypal.me/prashant3/5
+[Donate $10]:  	https://www.paypal.me/prashant3/10
+[Donate $15]:  	https://www.paypal.me/prashant3/15
+[Donate $25]:  	https://www.paypal.me/prashant3/25
+[Donate $50]: 		https://www.paypal.me/prashant3/50
+[Donate $100]: 	https://www.paypal.me/prashant3/100
+[Donate $2799]: 	https://www.paypal.me/prashant3/2799
