@@ -87,25 +87,6 @@ This project needs you! If you would like to support this project's further deve
 * **[Donate $2799]**: Go buddy, buy Macbook Pro for yourself!
 Of course, you can also choose what you want to donate, all donations are awesome!
 
-Connect With Me
------------
-
-Shivam Satija (droidsergeant)
-I love making new friends, please feel free to connect with me.
-
-<a href="https://plus.google.com/108004024169425288075">
-  <img alt="Connect me on Google+" src="/art/gplus.png" />
-</a>
-<a href="https://www.facebook.com/theShivamSatija">
-  <img alt="Connect me on Facebook" src="/art/fb.png" width="64" height="64" />
-</a>
-<a href="https://in.linkedin.com/in/developershivam">
-  <img alt="Connect me on LinkedIn" src="/art/linkedin.png" />
-</a> 
-
-Question / Contact Me / Hire Me
----------------------
-Please feel free to ping me at **dr.droid27@gmail.com**. Expected package would be **6 lpa**.
 
 License
 -------
